@@ -1,4 +1,4 @@
-# SHL Assessment Recommendation System — Approach Document
+# SHL Assessment RAG Recommendation System
 
 ## 1. Problem Statement
 
