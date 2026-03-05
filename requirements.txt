@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+# use the CPU build of FAISS; switch to faiss-gpu if you have a CUDA setup
+faiss-cpu
+sentence-transformers
+
+# API server dependencies
+fastapi
+uvicorn[standard]
+pydantic
