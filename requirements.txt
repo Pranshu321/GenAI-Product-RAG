@@ -9,3 +9,4 @@ sentence-transformers
 fastapi
 uvicorn[standard]
 pydantic
+tabulate
